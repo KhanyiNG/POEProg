@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POEProg", "POEProg\POEProg.csproj", "{6F279DEF-A6AB-41C0-9E57-87EA8F7A9FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F279DEF-A6AB-41C0-9E57-87EA8F7A9FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F279DEF-A6AB-41C0-9E57-87EA8F7A9FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F279DEF-A6AB-41C0-9E57-87EA8F7A9FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F279DEF-A6AB-41C0-9E57-87EA8F7A9FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AB47B35-84C5-4020-9F3B-A2390E3C859F}
+	EndGlobalSection
+EndGlobal
